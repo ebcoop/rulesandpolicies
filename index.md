@@ -6,3 +6,7 @@ This site is a collaborative effort, built with software from the [OpenPolitics 
 
 * Anyone can edit a page - just click "suggest a change" in the top right.
 * Once a suggestion is made, anyone can vote on whether or not it's accepted. Click "View proposals" above to see the current proposals.
+
+
+##Index of rules and policies:
+The [Rules]({{site.baseurl}}/Rules.html)
