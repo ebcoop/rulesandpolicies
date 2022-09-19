@@ -1,5 +1,6 @@
-
-# Rules of The Electric Boogaloo Co-operative Ltd.
+---
+title: Rules of The Electric Boogaloo Co-operative Ltd.
+---
 
 Version 1.12 – 16/12/2021
 &nbsp;
