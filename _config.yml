@@ -13,6 +13,8 @@ branch: master
 
 exclude: ["vendor"]
 
+source: pages
+
 markdown: kramdown
 kramdown:
   auto_ids: true
