@@ -20,6 +20,6 @@ kramdown:
 defaults:
 -
   scope:
-    path: "src"
+    path: ""
   values:
     layout: "root"
