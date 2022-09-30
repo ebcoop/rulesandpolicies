@@ -3,8 +3,8 @@
 title: Rules of The Electric Boogaloo Co-operative Ltd.
 ---
 
-Version 1.20: B.V Draft 1
-20/09/2022
+Version 1.20: B.V Draft 2
+30/09/2022
 &nbsp;
 
 Adopted by the co-operative at a general meeting on: 
@@ -121,11 +121,7 @@ A person qualifies for membership of the co-operative if the person is able to u
 
     a) if the membership ceases in any circumstances specified in section 117 of the Law;
     
-    b) if the member’s total shareholding is forfeited under the Law or these rules;
-    
-    c) if the member’s total shareholding is purchased by the co-operative under the Law or these rules;
-    
-    d) if the member’s total shareholding is sold by the co-operative under any power in the Law or these rules and the purchaser is registered as shareholder in the member’s place.
+    b) if the member loses their share under these rules or the Law. 
     
     
 #### 9 Expulsion of members (CNL s117)
@@ -159,8 +155,6 @@ A person qualifies for membership of the co-operative if the person is able to u
 4. Expulsion of one joint member means expulsion of all members holding membership jointly with the expelled member.
 
 5. An expelled member must not be re-admitted as a member unless the re-admission is approved by special resolution.
-
-6. A member re-admitted must not have restored to him or her any shares that were cancelled on his or her expulsion.
 
 
 #### 10 Resignation of members (CNL s117)
@@ -303,59 +297,24 @@ A member may resign from a co-operative by giving two weeks’ notice in writing
 
 #### 17 Calls on shares
 
-1. The board may from time to time make calls on the members for any amounts unpaid on the shares of the members (whether on the nominal value of the shares or by way of premium), regardless of the share subscription amount (if any) specified in the terms of issue of the shares.
+No calls on shares will be made. 
 
-2. Each member must, on receiving at least 14 days’ notice of the time and place of payment, pay to the co-operative, at the time and place specified, the amount called on the shares.
-
-3. The directors may revoke or postpone a call.
-
-4. A call is taken to have been made when the resolution of the directors authorising the call was passed and may be required to be paid by instalments.
-
-5. The joint holders of a share are jointly and severally liable to pay all calls for the share.
-
-6. If an amount called for a share is not paid before or on the day fixed for payment of the amount, the person from whom the amount is due must pay interest on the amount from the day fixed for the payment of the amount to the time of actual payment at the rate, not more than 16% per annum, the directors decide, but the directors may waive payment of all or part of the interest.
-
-7. An amount that, under the terms of issue of a share, becomes payable on allotment or at a fixed date, whether on account of the nominal value of the share or by way of premium, is for these rules taken to be a call made and payable on the day that, under the terms of issue, the amount becomes payable. If the amount is not paid, all relevant provisions of these rules about payment of interest and expenses, forfeiture or otherwise apply as if the amount had become payable under a call properly made and notified.
-
-8. The board may, in relation to the issue of shares, differentiate between the holders in the amount of calls to be paid and the times of payment.
-
-9. The board may accept from a member all or part of the money uncalled and unpaid on shares held by the member.
- 
-10. The board may authorise payment by the co-operative of interest on all or part of an amount accepted under subrule (9) until the amount becomes payable, at a rate agreed between the board and the member paying the amount, of not more than 8% per annum or another rate fixed by the co-operative by special resolution.
+>**Note.** 100% of the value of shares must be paid in full at time of application
 
 
 #### 18 Repurchase of members’ shares (CNL ss99, 107, 109 & 118)
 
-1. Members’ shares may be repurchased by the co-operative in accordance with the Law.
-
-    A member who wishes the co-operative to repurchase any shares must do so by submitting a request to the board in the following form:
-
-
-    _I/We<span style="text-decoration:underline;"> 	</span>being members of the<span style="text-decoration:underline;"> 	</span>(co-operative name) and the holders of_
-
-
-    _<span style="text-decoration:underline;"> 	</span>(number of shares) in the co-operative that are fully/partly paid, request that the co-operative repurchase<span style="text-decoration:underline;"> 	</span>(number of shares). I/We are aware of the conditions of repayment under the Co- operatives National Law or relevant Act._
-
-
-    _Signed:  <span style="text-decoration:underline;"> 	</span>_
-
-
-    _Dated: <span style="text-decoration:underline;"> 	</span>_
-
-
-    _Witness (name and signature):_
-
-2. The board of the co-operative must consider each request for repurchase in accordance with the Law and cancel any shares that have been repurchased.
+A share may not be repurchased.
 
 
 #### 19 Transfer of shares (CNL ss100 & 101)
 
-1. A share may not be sold or transferred.
+A share may not be sold or transferred.
 
 
 #### 20 Effect of sale, transfer or disposal of shares (CNL ss232 & 233)  
-A member who has sold  or transferred, or disposed of the beneficial interest in, all the member’s shares, or  
-has agreed to do any of those things, is not entitled to vote at any meeting of the co-operative.
+
+A member who for any reason holds less than the minimum number of shares is not entitled to vote at any meeting of the co-operative, and their membership must be cancelled as soon as possible.
 
 
 
@@ -372,20 +331,14 @@ has agreed to do any of those things, is not entitled to vote at any meeting of 
     
 #### 22 Forfeiture of shares (CNL s109)
 
-1. If a member fails to pay a call or instalment of a call by the day appointed for payment, the board may, at any time that any part of the call or instalment remains unpaid, serve a notice on the member requiring payment of so much of the call or instalment as is unpaid, together with any interest that may have accrued.
+1. Forfeiture of shares includes forfeiture of all dividends declared for the forfeited shares and not actually paid before forfeiture.
 
-2. The notice must name a further day (not earlier than 14 days after the date of the notice) on or before which the payment required by the notice is to be made and must state that, in the event of non- payment at or before the time appointed, the shares for which the call was made will be liable to be forfeited
-
-3. If the requirements of the notice served under this rule are not complied with, any share in respect of which the notice has been given may at any time (but before the payment required by the notice has been made) be forfeited by a resolution of the board.
-
-4. Forfeiture of shares includes forfeiture of all dividends declared for the forfeited shares and not actually paid before forfeiture.
-
-5. Forfeited shares must be cancelled.
+2. Forfeited shares must be cancelled.
 
 
 #### 23 Forfeited shares—liability of members
 
-1. A person whose shares have been forfeited under these rules stops being a member if membership is conditional on the holding of the shares or membership has otherwise been cancelled under the Law. The person nevertheless remains liable to pay to the co-operative all amounts that are (as at the date of forfeiture) payable by him or her to the co-operative for the shares.
+1. A person whose shares have been forfeited under these rules or the law stops being a member. The person nevertheless remains liable to pay to the co-operative all amounts that are (as at the date of forfeiture) payable by them to the co-operative for the shares.
 
 2. A statutory declaration in writing by a director, the chief executive officer or secretary of the co-operative stating that a share in the co-operative has been forfeited and cancelled on a date stated in the declaration, is proof of that fact as against all persons claiming to be entitled to the share.
 
@@ -397,46 +350,26 @@ has agreed to do any of those things, is not entitled to vote at any meeting of 
 
 #### 24 Death of member (CNL ss93 & 102–106)
 
-The legal personal representative of a deceased member may apply to the board for a transfer of the deceased member’s shares in the following form:
-
-
->_I,<span style="text-decoration:underline;"> 	</span>am the legal personal representative of<span style="text-decoration:underline;"> 	</span>(a member of the co-operative) who died on <span style="text-decoration:underline;"> 		</span>_
->
->_Copies of my appointment as executor/administrator of the estate are attached._
->
->_I request that the board transfer all shares attaching to the membership of<span style="text-decoration:underline;"> 	</span>being shares numbered<span style="text-decoration:underline;"> 	</span>in the co-operative, to me._
->
->A) _I intend to hold the shares subject to the deceased member’s last will and testament / letters of administration and will notify the board of any proposal to transfer the shares to any beneficiary/ies 
->OR_
->B) _I am also the beneficiary of the estate of the deceased member and I am aware of the requirements for active membership under the rules of the co-operative._
->
- >(Include any additional information to enable the board to consider whether the transferee is likely to be an active member of the co-operative.)
- >
- > _Dated <span style="text-decoration:underline;"> 	</span>_
->
->   _Signed by<span style="text-decoration:underline;"> 	</span>Legal personal representative_
->
- >  _In the presence of<span style="text-decoration:underline;"> 		</span>witness._
-
+In the event that a member dies, their shares will be forfeited. 
 
 #### 25 Rights and liabilities of members under bankruptcy or mental incapacity (CNL ss95, 96 & 117)
 
-1. A person’s membership ceases upon bankruptcy and that person’s shares may be transferred to the Official Trustee in Bankruptcy and dealt with under the provisions of section 95 of the Law.
+1. A person’s membership ceases upon bankruptcy and that person’s shares must be forfeited.
 
 2. A person appointed under a law of a State or Territory to administer the estate of a member who, through mental or physical infirmity, is incapable of managing his or her affairs, may be registered as the holder of the member’s shares and the rights and liabilities of membership vest in that person during the period of the appointment.
 
-3. The liabilities attaching to the shares of a person under bankruptcy or mental incapacity continue in accordance with section 96 of the Law.
+3. The liabilities attaching to the shares of a person under mental incapacity continue in accordance with section 96 of the Law.
 
 4. Upon application by a person appointed to manage the affairs of a member referred to in subrule (2), the board may decide to suspend some or all active membership obligations if there are grounds to believe that the member’s physical or mental infirmity is temporary.
 
 
 #### 26 Entitlements and liabilities of person registered as trustee, administrator etc.
 
-1. A person becoming entitled to be a shareholder because of the death, bankruptcy or incapacity of the holder is entitled to the dividends and other advantages to which the person would be entitled if he or she were the registered holder of the share or shares. However, before being registered as a member, the person is not entitled to exercise any right conferred by membership in relation to meetings of the co-operative.
+1. A person becoming entitled to be a shareholder because of the incapacity of the holder is entitled to the dividends and other advantages to which the person would be entitled if he or she were the registered holder of the share or shares. However, before being registered as a member, the person is not entitled to exercise any right conferred by membership in relation to meetings of the co-operative.
 
-2. A person registered as holder of the shares of a member who has died, or is bankrupt or incapable of managing his or her affairs, has the same liabilities in relation to the share or shares as those to which the deceased, bankrupt or incapable person would have been liable if he or she had remained a member with full legal capacity.
+2. A person registered as holder of the shares of a member incapable of managing his or her affairs, has the same liabilities in relation to the share or shares as those to which the deceased, bankrupt or incapable person would have been liable if he or she had remained a member with full legal capacity.
 
-3. The board has the same right to decline or to suspend registration of a share as it would have had for a transfer of a share by the bankrupt or incapacitated person before the bankruptcy or incapacity.
+3. The board has the same right to decline or to suspend registration of a share as it would have had for a transfer of a share by the incapacitated person before the bankruptcy or incapacity.
 
 
 
@@ -458,35 +391,14 @@ The legal personal representative of a deceased member may apply to the board fo
     
     c) any government stamp duty payable is paid.
     
-5. Debentures must be transferred in the following form or in a form approved by the board: 
-
->    _I, A.B. (the transferor) of<span style="text-decoration:underline;"> 	</span>in the State/Territory of_
->
->    _<span style="text-decoration:underline;"> 	</span>in consideration of the sum of $<span style="text-decoration:underline;"> 	</span>paid_
->
->    _to me by C.D (the transferee), of .<span style="text-decoration:underline;"> 	</span>in the State of_
->
->    _<span style="text-decoration:underline;"> 	</span>transfer to the transferee the debenture(s) numbered_
->
->    _<span style="text-decoration:underline;"> 	</span>to be held by the transferee, the transferee’s executors, administrators and assigns, subject to any conditions on which I hold the debenture(s) and any other conditions being terms of the transfer of the debenture(s)._
->
->    _And I, the transferee, agree to take the debenture(s) subject to the conditions mentioned._
->
->    _Dated this<span style="text-decoration:underline;"> 	</span>. day of<span style="text-decoration:underline;"> 	</span>20 <span style="text-decoration:underline;"> 	</span>_
->
->    _Signed by<span style="text-decoration:underline;"> 	</span>transferor. In the presence of<span style="text-decoration:underline;"> 		</span>witness. Signed by<span style="text-decoration:underline;"> 		</span>transferee. In the presence of<span style="text-decoration:underline;"> 			</span>witness._
-
+5. Debentures must be transferred in a form approved by the board
 
 #### 28 Issue of CCUs (CNL ss345–354)
 
-1. The board may not confer interests in the capital of the co-operative by issuing CCUs.
+The board must not issue CCUs.
 
 
-#### 29 Transfer and transmission of CCUs
-
-1. Subject to subrule (2), the transfer and transmission of a CCU is to follow the same process as for a debenture under rule 27.
-
-2. If the terms of issue of a CCU differ from rule 27 in respect of the manner of transfer or transmission, the terms of its issue prevail.
+#### 29 Reserved
 
 
 
@@ -576,11 +488,13 @@ An annual general meeting must be held each year, at a place and on a date and a
 
 1. An item of business cannot be transacted at a general meeting unless a quorum of members is present when the meeting is considering the item.
 
-2. Unless these rules state otherwise, 5 members (or 50% of total members entitled to vote rounded up to the nearest whole member, whatever is the lesser amount) present in person, each being entitled to exercise a vote, constitute a quorum.
+2. A member can be taken as being present "in person" if using a form of communication that allows reasonably contemporaneous and continuous communication between the other members taking part in the meeting.
 
-3. If a quorum is not present within half an hour after the appointed time for a meeting, the meeting, if called on the requisition of members, must be dissolved. In any other case it must be adjourned to the same day, time and place in the next week.
+3. Unless these rules state otherwise, 5 members (or 50% of total members entitled to vote rounded up to the nearest whole member, whatever is the lesser amount) present in person, each being entitled to exercise a vote, constitute a quorum.
 
-4. If a quorum is not present within half an hour after the time appointed for an adjourned meeting, the members present constitute a quorum.
+4. If a quorum is not present within half an hour after the appointed time for a meeting, the meeting, if called on the requisition of members, must be dissolved. In any other case it must be adjourned to the same day, time and place in the next week.
+
+5. If a quorum is not present within half an hour after the time appointed for an adjourned meeting, the members present constitute a quorum.
 
 
 #### 35 Chairperson at general meetings
@@ -983,7 +897,7 @@ Directors’ remuneration must comply with the provisions of the Law.
 
 2. A proposal to amend the rules of the co-operative must be made in a form approved by the board which clearly shows the existing rule or rules concerned and any proposed amendment to the rules.
 
-4. A member is entitled to a copy of the rules upon payment of the amount of $5 to the co-operative.
+3. A member is entitled to a copy of the rules upon payment of the amount of $5 to the co-operative.
 
 > **Note.** The rule could instead provide that the fee payable by a member for a copy of the rules is nil (for example, for a copy that is provided electronically to the member). In any case, the fee cannot be greater than the fee that would be charged if the member obtained a copy from the Registrar.
 
@@ -1022,15 +936,17 @@ Shares, debentures, charges and any other certificates or documents or duplicate
 
 1. This rule applies in addition to section 611 of the Law regarding how a notice or other document may be given to a member of the co-operative.
 
-3. A notice or other document required to be given to a member of the co-operative may be given by the co-operative to any member by any form of technology (for example, by fax or email), where the member has given consent and notified the co-operative of the relevant contact details.
+2. A notice or other document required to be given to a member of the co-operative may be given by the co-operative to any member by any form of technology (for example, by fax or email), where the member has given consent and notified the co-operative of the relevant contact details.
 
 >**Note.** Legislation relating to electronic transactions may also be relevant to the giving of notices or other documents.
 
-4. If a notice is sent by post, service is taken to be effected at the time at which the properly addressed and prepaid letter would be delivered in the ordinary course of post. In proving service by post, it is sufficient to prove that the envelope containing the notice was properly addressed and posted.
-5. A notice forwarded by some other form of technology is taken to have been served, unless the sender is notified of a malfunction in transmission, on the day of transmission if transmitted during a business day, otherwise on the next following business day.
-6. A notice may be given by the co-operative to joint members by giving the notice to the joint member named first in the register of members.
+3. If a notice is sent by post, service is taken to be effected at the time at which the properly addressed and prepaid letter would be delivered in the ordinary course of post. In proving service by post, it is sufficient to prove that the envelope containing the notice was properly addressed and posted.
 
-7. A notice may be given by the co-operative to the person entitled to a share in consequence of the death, incapacity or bankruptcy of a member by sending it through the post in a prepaid letter addressed to that person by name. Alternatively, it can be addressed to the person by the title of representative of the deceased or incapacitated person, or trustee of the bankrupt, or by any like description, and:
+4. A notice forwarded by some other form of technology is taken to have been served, unless the sender is notified of a malfunction in transmission, on the day of transmission if transmitted during a business day, otherwise on the next following business day.
+
+5. A notice may be given by the co-operative to joint members by giving the notice to the joint member named first in the register of members.
+
+6. A notice may be given by the co-operative to the person entitled to a share in consequence of the death, incapacity or bankruptcy of a member by sending it through the post in a prepaid letter addressed to that person by name. Alternatively, it can be addressed to the person by the title of representative of the deceased or incapacitated person, or trustee of the bankrupt, or by any like description, and:
 
     a) the address should be that supplied for the purpose by the person claiming to be entitled; or
     
@@ -1059,50 +975,14 @@ The financial year of the co-operative ends on June 30<sup>th</sup>.
     b) a person approved by the board.
 
 
-#### 65 Appointing an auditor or reviewer for small co-operative (optional rule) (CNL s298)  
-
-> **Note 1.**  If a co-operative is a small co-operative in a particular financial year, there is no requirement to appoint an auditor, unless the co-operative is directed to prepare audited or reviewed financial statements by its  members or by the Registrar. A small co-operative may choose to appoint an auditor or a reviewer to have its  
-financial statements to members either audited or reviewed each financial year where there is no direction  
-from members or the Registrar.  
-
->**Note 2.**  A review may be carried out by a person who:
->-  is a member of the Institute of Chartered Accountants in Australia and holds a Certificate of Public  
-Practice issued by that body  
->-  is a member of CPA Australia Ltd and holds a Public Practice Certificate issued by that body  
->-  is a member of the Institute of Public Accountants and holds a Professional Practice Certificate issued  
-by that body  
-
->**Note 3.**  Large co-operatives are required to appoint an auditor in accordance with the procedures under the  
-Law. A large co-operative is one that is not classified as a small co-operative under the National Regulations.  
-
->**Note 4.**  The following rule is suitable for a small co-operative that wishes to require its financial statements be  either audited or reviewed.  
-
-1. The co-operative must appoint an auditor / a reviewer  (strike out whichever is not applicable)  in  
-respect of its financial statements.  
-
-2. An auditor / a reviewer  (strike out whichever is not applicable)  appointed under this rule is to  
-conduct an audit / review  (strike out whichever is not applicable)  of the co-operative’s financial  
-statements as presented to members.  
-
-3. The appointment of an auditor / a reviewer  (strike out whichever is not applicable)  under this  
-rule is to be made at an annual general meeting.  
-
-4. The co-operative may appoint another auditor / reviewer  (strike out whichever is not applicable)  
-at a subsequent annual general meeting if there is a vacancy in the office of the auditor /  
-reviewer  (strike out whichever is not applicable).  
-
-5. The provisions of section 300(2) of the Law apply to an auditor / a reviewer  (strike out whichever  
-is not applicable)  appointed under this rule in the same way (but with any necessary adaptations)  
-as they apply to an auditor appointed for a large co-operative.
-
->**Note.**  See section 310 of the Law regarding the removal and resignation of auditors.
+#### 65 Reserved
 
 
 #### 66 Appointing an auditor or reviewer for a small co-operative if there is a direction under the Law (CNL ss271 & 272)
 
 1. If a small co-operative is directed to prepare a financial report under section 271 or 272 of the Law and the direction requires that the financial report be audited or reviewed, the board must appoint an auditor or reviewer (as the case may be) within one month of the direction.
 
-3. An auditor or reviewer appointed under this rule holds office until the financial report prepared as a result of the direction has been audited or reviewed and sent to members.
+2. An auditor or reviewer appointed under this rule holds office until the financial report prepared as a result of the direction has been audited or reviewed and sent to members.
 
 
 #### 67 Disposal of surplus funds during a financial year (CNL ss355–358)
@@ -1111,7 +991,7 @@ as they apply to an auditor appointed for a large co-operative.
 
 2. A part of the surplus, but no less than 30%, arising in a year from the business of the co-operative shall be retained to later be applied for the benefit of the co-operative.
 
-4. A part of the surplus, but no more than 70%, arising in a year from the business of the co-operative may be applied for any charitable purposes.
+3. A part of the surplus, but no more than 70%, arising in a year from the business of the co-operative may be applied for any charitable purposes.
 
 
 #### 68 Provision for loss
@@ -1141,4 +1021,4 @@ The co-operative must prepare financial reports and statements in accordance wit
 #### 71  Non-profit nature of the co-operative 
 
 1.  Notwithstanding any other provision of these rules, the assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative except as genuine compensation for services rendered or expenses incurred on behalf of the co-operative
-
+title: Rules of The Electric Boogaloo Co-operative Ltd.
