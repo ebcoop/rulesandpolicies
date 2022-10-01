@@ -42,7 +42,7 @@ These rules are the rules of The Electric Boogaloo Co-operative Ltd.
 
    **member** means a member of the co-operative.
    
-   **member director and non-member director**—see section 174 of the Law and rule 45.
+   **member director and non-member director**â€”see section 174 of the Law and rule 45.
    
    **standard postal times** means the times when properly addressed and prepaid letters would be delivered in the ordinary course of post.
 
@@ -57,7 +57,7 @@ These rules are the rules of The Electric Boogaloo Co-operative Ltd.
 2. Except so far as the contrary intention appears in these rules, words and expressions used in these rules have the same meanings as they have, from time to time, in the Law or relevant provisions of the Law.
 
 
-#### 3 Name and primary activity of the co-operative (CNL ss220–222 & 224)
+#### 3 Name and primary activity of the co-operative (CNL ss220â€“222 & 224)
 
 1.  The name of the co-operative is The Electric Boogaloo Co-operative Ltd.
 
@@ -72,7 +72,7 @@ These rules are the rules of The Electric Boogaloo Co-operative Ltd.
 ### Division 1 Membership generally
 
 
-#### 4 Active membership provisions (CNL ss112(2), 144, 148 & 156–166)
+#### 4 Active membership provisions (CNL ss112(2), 144, 148 & 156â€“166)
 
 1. Primary activity 
 
@@ -107,7 +107,7 @@ A person qualifies for membership of the co-operative if the person is able to u
   
 2. Every application must be considered by the board.
 
-3. If the board approves the application, the applicant’s name and any other information required under the Law must be entered in the register of members within 28 days of the board’s approval.
+3. If the board approves the application, the applicantâ€™s name and any other information required under the Law must be entered in the register of members within 28 days of the boardâ€™s approval.
 
 4. The applicant must be notified in writing of the entry in the register and the applicant is then entitled to the privileges attaching to membership.
 
@@ -129,7 +129,7 @@ A person qualifies for membership of the co-operative if the person is able to u
 
 1. A member may be expelled from the co-operative by special resolution to the effect:
 
-    a) that the member has seriously or repetitively failed to discharge the member’s obligations to the co-operative under these rules or a contract entered into with the co-operative under section 125 of the Law; or
+    a) that the member has seriously or repetitively failed to discharge the memberâ€™s obligations to the co-operative under these rules or a contract entered into with the co-operative under section 125 of the Law; or
     
     b) that the member has acted in a way that has:
     
@@ -145,7 +145,7 @@ A person qualifies for membership of the co-operative if the person is able to u
 
    a)  at the meeting, the member must be afforded a full opportunity to be heard and is entitled to call witnesses and cross-examine witnesses called against the member;
 
-   b) if the member fails to attend at the time and place mentioned, without reasonable excuse, the member’s alleged conduct must be considered and the co-operative may decide on the evidence before it, despite the absence of the member;
+   b) if the member fails to attend at the time and place mentioned, without reasonable excuse, the memberâ€™s alleged conduct must be considered and the co-operative may decide on the evidence before it, despite the absence of the member;
     
    c) once the alleged conduct is considered, the co-operative may decide to expel the member concerned;
     
@@ -160,7 +160,7 @@ A person qualifies for membership of the co-operative if the person is able to u
 
 #### 10 Resignation of members (CNL s117)
 
-A member may resign from a co-operative by giving two weeks’ notice in writing in the form approved by the board.
+A member may resign from a co-operative by giving two weeksâ€™ notice in writing in the form approved by the board.
 
 
 #### 11 Monetary consequences of expulsion or resignation (CNL s128)
@@ -173,7 +173,7 @@ A member may resign from a co-operative by giving two weeks’ notice in writing i
 
 3. The shares of an expelled or resigning member must be cancelled as at the day of expulsion or resignation, and the cancellation must be noted in the register of shares.
 
-4. Subject to subrule (5) and the written terms of a class of share issued, the co-operative must, however, pay to the expelled or resigning member the amount of capital paid up on the former member’s shares at the time of expulsion or resignation (less any amount owing by the former member to the co- operative).
+4. Subject to subrule (5) and the written terms of a class of share issued, the co-operative must, however, pay to the expelled or resigning member the amount of capital paid up on the former memberâ€™s shares at the time of expulsion or resignation (less any amount owing by the former member to the co- operative).
 
 5. If a deficiency exists, an appropriate proportion of the loss, deficiency or significant change may be deducted from the amount of capital paid up on the shares of the expelled or resigning member. This is done having regard to the number of shares held by the expelled or resigning member immediately before expulsion or resignation in relation to the number of shares in the co-operative.
 
@@ -259,7 +259,7 @@ A member may resign from a co-operative by giving two weeks’ notice in writing i
 >**Note.** Section 130 of the Law applies if mediation does not resolve the dispute.
 
 
-### Division 3 Members’ liability
+### Division 3 Membersâ€™ liability
 
 #### 14 Fines payable by members (CNL ss56 & 126)
 
@@ -283,7 +283,7 @@ A member may resign from a co-operative by giving two weeks’ notice in writing i
 
 ### Division 4 Shares
 
-#### 16 Capital and shares (CNL ss76–82)
+#### 16 Capital and shares (CNL ss76â€“82)
 
 1. The capital of the co-operative must be raised by the issue of shares with a nominal value  of $1 each.
 
@@ -305,7 +305,7 @@ No calls on shares will be made.
 >**Note.** 100% of the value of shares must be paid in full at time of application
 
 
-#### 18 Repurchase of members’ shares (CNL ss99, 107, 109 & 118)
+#### 18 Repurchase of membersâ€™ shares (CNL ss99, 107, 109 & 118)
 
 A share may not be repurchased, except when required under these rules or the Law.
 
@@ -323,7 +323,7 @@ A member who for any reason holds less than the minimum number of shares is not 
 
 ### Division 5 Member cancellations
 
-#### 21 Forfeiture and cancellations—inactive members (CNL ss156–163)
+#### 21 Forfeiture and cancellationsâ€”inactive members (CNL ss156â€“163)
 
 1. The board must declare the membership of a member cancelled if:
 
@@ -339,7 +339,7 @@ A member who for any reason holds less than the minimum number of shares is not 
 2. Forfeited shares must be cancelled.
 
 
-#### 23 Forfeited shares—liability of members
+#### 23 Forfeited sharesâ€”liability of members
 
 1. A person whose shares have been forfeited under these rules or the Law stops being a member. The person nevertheless remains liable to pay to the co-operative all amounts that are (as at the date of forfeiture) payable by them to the co-operative for the shares.
 
@@ -351,20 +351,20 @@ A member who for any reason holds less than the minimum number of shares is not 
 
 ### Division 6 Deceased or incapacitated members
 
-#### 24 Death of member (CNL ss93 & 102–106)
+#### 24 Death of member (CNL ss93 & 102â€“106)
 
 The legal personal representative of a deceased member may apply to the board for a transfer of the  
-deceased member’s shares and interest (as defined in Division 8 of the law) in a form approved by the Board. 
+deceased memberâ€™s shares and interest (as defined in Division 8 of the law) in a form approved by the Board. 
 
 #### 25 Rights and liabilities of members under bankruptcy or mental incapacity (CNL ss95, 96 & 117)
 
-1. A person’s membership may continue upon bankruptcy for so long as that member continues to meet all regular membership requirements. 
+1. A personâ€™s membership may continue upon bankruptcy for so long as that member continues to meet all regular membership requirements. 
 
-2. A person appointed under a law of a State or Territory to administer the estate of a member who, through mental or physical infirmity, is incapable of managing his or her affairs, may be registered as the holder of the member’s shares and the rights and liabilities of membership vest in that person during the period of the appointment.
+2. A person appointed under a law of a State or Territory to administer the estate of a member who, through mental or physical infirmity, is incapable of managing his or her affairs, may be registered as the holder of the memberâ€™s shares and the rights and liabilities of membership vest in that person during the period of the appointment.
 
 3. The liabilities attaching to the shares of a person under mental incapacity continue in accordance with section 96 of the Law.
 
-4. Upon application by a person appointed to manage the affairs of a member referred to in subrule (2), the board may decide to suspend some or all active membership obligations if there are grounds to believe that the member’s physical or mental infirmity is temporary.
+4. Upon application by a person appointed to manage the affairs of a member referred to in subrule (2), the board may decide to suspend some or all active membership obligations if there are grounds to believe that the memberâ€™s physical or mental infirmity is temporary.
 
 
 #### 26 Entitlements and liabilities of person registered as trustee, administrator etc.
@@ -397,7 +397,7 @@ deceased member’s shares and interest (as defined in Division 8 of the law) in a
     
 5. Debentures must be transferred in a form approved by the board
 
-#### 28 Issue of CCUs (CNL ss345–354)
+#### 28 Issue of CCUs (CNL ss345â€“354)
 
 The board must not issue CCUs.
 
@@ -413,7 +413,7 @@ The board must not issue CCUs.
 An annual general meeting must be held each year, at a place and on a date and a time decided by the board, within 5 months after the close of the financial year of the co-operative or within the further time allowed by the Registrar.
 
 
-#### 31 Members’ power to requisition a general meeting (CNL s257)
+#### 31 Membersâ€™ power to requisition a general meeting (CNL s257)
 
 1. The board may, whenever it considers appropriate, call a special general meeting of the co-operative.
 
@@ -424,11 +424,11 @@ An annual general meeting must be held each year, at a place and on a date and a
 
 #### 32 Notice of general meetings (CNL ss239, 254 & 611)
 
-1. At least 14 days’ notice of a general meeting (not including the day on which the notice is served or taken to be served, but including the day for which notice is given) must be given.
+1. At least 14 daysâ€™ notice of a general meeting (not including the day on which the notice is served or taken to be served, but including the day for which notice is given) must be given.
 
-> **Note 1.** If there is to be a special resolution proposed at the meeting, there is a requirement for at least 21 days’ notice of the special resolution.
+> **Note 1.** If there is to be a special resolution proposed at the meeting, there is a requirement for at least 21 daysâ€™ notice of the special resolution.
 
-> **Note 2.** If there is a resolution proposed for the removal of a director, section 180 of the Law requires special notice of the resolution and 21 days’ notice of the meeting.
+> **Note 2.** If there is a resolution proposed for the removal of a director, section 180 of the Law requires special notice of the resolution and 21 daysâ€™ notice of the meeting.
 
 2. Notice must be given to each member of the co-operative and any other persons who are, under these rules or the Law, entitled to receive notices from the co-operative.
 
@@ -436,7 +436,7 @@ An annual general meeting must be held each year, at a place and on a date and a
 
 3. The notice must state the place, day and hour of the meeting and include ordinary business as specified in rule 33 and, for special business, the general nature of any special business.
 
-4. The notice must also include any business members have notified their intention to move at the meeting under subrule (6) (but only if the members’ notification has been made under these rules and within time).
+4. The notice must also include any business members have notified their intention to move at the meeting under subrule (6) (but only if the membersâ€™ notification has been made under these rules and within time).
 
 5. The notice must be served in the manner provided in the Law or rule 62.
 
@@ -473,11 +473,11 @@ An annual general meeting must be held each year, at a place and on a date and a
     
     &nbsp;&nbsp; ii) a report on the state of affairs of the co-operative;
     
-    &nbsp;&nbsp; iii) a directors’ solvency resolution as to whether or not, in their opinion, there are reasonable grounds to believe that the co-operative will be able to pay its debts as and when they become due and payable; and
+    &nbsp;&nbsp; iii) a directorsâ€™ solvency resolution as to whether or not, in their opinion, there are reasonable grounds to believe that the co-operative will be able to pay its debts as and when they become due and payable; and
     
     c) to approve any payments of fees to directors.
 
->**Note 1.** A small co-operative must prepare and send to members minimum financial statements that are specified in regulation 3.10 of the National Regulations (these are referred as “basic minimum financial statements”). A co-operative may require more than the basic minimum financial statements to be provided to members and, if so, the additional financial statements should be specified in this rule.
+>**Note 1.** A small co-operative must prepare and send to members minimum financial statements that are specified in regulation 3.10 of the National Regulations (these are referred as â€œbasic minimum financial statementsâ€). A co-operative may require more than the basic minimum financial statements to be provided to members and, if so, the additional financial statements should be specified in this rule.
 
 >**Note 2.** If the small co-operative has consolidated gross assets of less than $250,000 and consolidated revenue of less than $750,000, the financial statement for the small co-operative need not include a cash flow statement (as provided in regulation 3.10 of the National Regulations).
 
@@ -631,7 +631,7 @@ Voting by proxy is not permitted at a general meeting.
 4. If the board decides to conduct a secret postal ballot, it must ensure that the method used to conduct the ballot will ensure that votes can be counted without identifying the way each member has voted.
 
 
-#### 43 Special resolutions (CNL ss238–241)
+#### 43 Special resolutions (CNL ss238â€“241)
 
 1. A special resolution is a resolution that is passed:
 
@@ -674,7 +674,7 @@ Voting by proxy is not permitted at a general meeting.
     
     b) not an active member but who possesses special skills in management or other technical areas of benefit to the co-operative as specified by the board from time to time.
 
-2. A person qualified to be a director under subrule (1)(a) is known as a “member director”. A person qualified under subrule (1)(b) is known as a “non-member director”.
+2. A person qualified to be a director under subrule (1)(a) is known as a â€œmember directorâ€. A person qualified under subrule (1)(b) is known as a â€œnon-member directorâ€.
 
 3. The board of directors must have a majority of member directors.
 
@@ -691,7 +691,7 @@ Voting by proxy is not permitted at a general meeting.
 
 5. The chief executive officer cannot be required to be an active member of the co-operative.
 
-6. In the event of any conflict between the terms of the appointment of a person as the chief executive officer and that person’s obligations or privileges under the Law, the terms of the Law prevail over the terms of appointment.
+6. In the event of any conflict between the terms of the appointment of a person as the chief executive officer and that personâ€™s obligations or privileges under the Law, the terms of the Law prevail over the terms of appointment.
 
 
 #### 47 First directors and election of directors (CNL ss173 & 179)
@@ -702,7 +702,7 @@ Voting by proxy is not permitted at a general meeting.
 
 2. The term of office of the first directors is to be not more than 3 years ending on the day of the third annual general meeting after the formation meeting.
 
->**Note.** The rules may require that directors’ terms are of different length to enable rotational retirement.
+>**Note.** The rules may require that directorsâ€™ terms are of different length to enable rotational retirement.
 
 3. The term of office of directors elected thereafter, is to commence from the annual general meeting at which they are elected and ends on the day of the third annual general meeting thereafter.
 
@@ -735,11 +735,11 @@ Voting by proxy is not permitted at a general meeting.
     
     e) The secretary, or an officer nominated by the board, must give details of each person who has been nominated to members with the notice of the annual general meeting. Details to be provided to members must include:
     
-    &nbsp;&nbsp; i) the nominee’s name; and
+    &nbsp;&nbsp; i) the nomineeâ€™s name; and
     
-    &nbsp;&nbsp; ii) the nominee’s qualifications and experience; and
+    &nbsp;&nbsp; ii) the nomineeâ€™s qualifications and experience; and
     
-    &nbsp;&nbsp; iii) the nominee’s length of any previous service as a director of the co-operative or with any other co-operative.
+    &nbsp;&nbsp; iii) the nomineeâ€™s length of any previous service as a director of the co-operative or with any other co-operative.
 
 6. If the number of nominees equals the number of vacancies, the nominees must be declared elected at the annual general meeting.
 
@@ -762,7 +762,7 @@ Voting by proxy is not permitted at a general meeting.
 
 #### 48 Removal from office of director (CNL s180)
 
-The co-operative may by resolution under section 180 of the Law, with special notice as required by that section, remove a director before the end of the director’s period of office, and may by a simple majority appoint another person in place of the removed director. The person appointed must retire when the removed director would otherwise have retired.
+The co-operative may by resolution under section 180 of the Law, with special notice as required by that section, remove a director before the end of the directorâ€™s period of office, and may by a simple majority appoint another person in place of the removed director. The person appointed must retire when the removed director would otherwise have retired.
 
 
 #### 49 Vacation of office of director (CNL s179)
@@ -778,9 +778,9 @@ In addition to the circumstances set out in the Law, a director vacates office i
 
 3. A person is not qualified to be appointed as an alternate director for:
 
-    a) a member director—unless the person is qualified for appointment as a member director; or
+    a) a member directorâ€”unless the person is qualified for appointment as a member director; or
 
-    b) a non-member director—unless the person is qualified for appointment as a non-member director.
+    b) a non-member directorâ€”unless the person is qualified for appointment as a non-member director.
     
 4. An alternate director holds office until the next annual general meeting or until the next general meeting held to elect directors to fill any vacancies (whichever is earlier).
 
@@ -793,7 +793,7 @@ In addition to the circumstances set out in the Law, a director vacates office i
 
 #### 51 Remuneration of directors (CNL s203)
 
-Directors’ remuneration must comply with the provisions of the Law.
+Directorsâ€™ remuneration must comply with the provisions of the Law.
 
 > **Note 1.** Remuneration for directors is strictly controlled under the Law and requires the approval of the co- operative in general meeting. However, it is possible for a co-operative to specify in its rules that a director will receive particular remuneration if this is appropriate. It may still be necessary to obtain ratification or approval at a general meeting even in respect of specified remuneration under the rules.
 
@@ -849,7 +849,7 @@ Directors’ remuneration must comply with the provisions of the Law.
 
     e)   a committee of directors and other persons;
 
-    the exercise of the board’s powers (other than this power of delegation) specified in the resolution. The co- operative or the board may by resolution revoke all or part of the delegation.
+    the exercise of the boardâ€™s powers (other than this power of delegation) specified in the resolution. The co- operative or the board may by resolution revoke all or part of the delegation.
 
 2. A power delegated under this rule may, while the delegation remains unrevoked, be exercised from time to time in accordance with the delegation.
 
@@ -893,9 +893,9 @@ Directors’ remuneration must comply with the provisions of the Law.
 
 ## Part 5 Rules
 
-#### 58 Amendments and copies of rules (CNL ss57 & 60–63)
+#### 58 Amendments and copies of rules (CNL ss57 & 60â€“63)
 
-1. Any amendment of the rules must be approved by special resolution. However, if model rules are adopted in the manner specified under section 65(a) of the Law, any amendments to the model rules as notified by the Registrar are included in the co-operative’s rules without the need for a special resolution.
+1. Any amendment of the rules must be approved by special resolution. However, if model rules are adopted in the manner specified under section 65(a) of the Law, any amendments to the model rules as notified by the Registrar are included in the co-operativeâ€™s rules without the need for a special resolution.
 
 > **Note.** Section 60 of the Law permits the Registrar to specify classes of rules that must not be changed without first obtaining the approval of the Registrar. A co-operative should check whether any prior approval is required before the change is put to a special resolution vote.
 
@@ -913,7 +913,7 @@ Directors’ remuneration must comply with the provisions of the Law.
 
 1. This rule applies if the co-operative chooses to authenticate a document under the common seal of the co-operative.
 
-2. The co-operative’s name and registration number must appear on its common seal and any official seal. The common seal must be kept at the registered office in the custody that the board directs.
+2. The co-operativeâ€™s name and registration number must appear on its common seal and any official seal. The common seal must be kept at the registered office in the custody that the board directs.
 
 3. The co-operative may have one or more official seals for use outside the State or Territory in place of its common seal. Each of the additional seals must be a facsimile of the common seal with the addition on its face of the name of the place where it is to be used.
 
@@ -989,26 +989,27 @@ The financial year of the co-operative ends on June 30<sup>th</sup>.
 2. An auditor or reviewer appointed under this rule holds office until the financial report prepared as a result of the direction has been audited or reviewed and sent to members.
 
 
-#### 67 Disposal of surplus funds during a financial year (CNL ss355–358)
+#### 67 Disposal of surplus funds during a financial year (CNL ss355â€“358)
 
-1. The co-operative may dispose of any surplus arising in a financial year arising from the business of the co-operative in the manner authorised under the Law as determined by the board.
+1. The co-operative may dispose of any surplus arising in a financial year arising from the business of the co-operative in the manner authorised under the Law and these Rules as determined by the board.
 
-2. A part of the surplus, but no less than 30%, arising in a year from the business of the co-operative shall be retained to later be applied for the benefit of the co-operative.
+2. The board may retain all or part of the surplus arising in any year from the business of the cooperative to be applied for the benefit of the cooperative.
 
-3. A part of the surplus, but no more than 70%, arising in a year from the business of the co-operative may be applied for any charitable purposes.
+3. A part of the surplus, but no more than 99%, arising in a year from the business of the co-operative may be applied for any charitable purposes.
 
 
 #### 68 Provision for loss
 
-The board must make appropriate provision for losses in the co-operative’s accounts and when reporting to members is to indicate whether the loss is expected to continue and whether there is any real prejudice to the co-operative’s solvency.
+The board must make appropriate provision for losses in the co-operativeâ€™s accounts and when reporting to members is to indicate whether the loss is expected to continue and whether there is any real prejudice to the co-operativeâ€™s solvency.
 
 
 #### 69 Financial reports to members (CNL Part 3.3)
 
 The co-operative must prepare financial reports and statements in accordance with the Law, the National Regulations and these rules.
 
->**Note.** The financial reports or statements required by the Law to be given to members vary according to the size of a co-operative in a given year. Large co-operatives are required to prepare and lodge with the Registrar full audited financial reports as set out in Part 3.3 of the Law. Small co-operatives are not required to lodge financial reports with the Registrar but are required to lodge an annual return under section 293 of the Law and provide
-
+>**Note.** The financial reports or statements required by the Law to be given to members vary according to the size of a co-operative in a given year. Large co-operatives are required to prepare and lodge with the Registrar full audited financial reports as set out in Part 3.3 of the Law. Small co-operatives are not required to lodge financial reports with the Registrar but are required to lodge an annual return under section 293 of the Law and provide members with basic minimum financial statements set out in the National Regulations. If the basic
+minimum reports prescribed in the National Regulations are not considered sufficient for a particular co-
+operative, the rules may include additional financial statements or information.
 
 
 ## Part 8 Winding up and non-profit nature of the co-operative 
@@ -1017,14 +1018,14 @@ The co-operative must prepare financial reports and statements in accordance wit
     
 1.  The winding up of the co-operative must be in accordance with Part 4.5 of the Law.
     
-2.  If on the winding up or dissolution there remains any property after the satisfaction of all the co-operative’s debts and liabilities (including the refund of the amounts paid up on the shares), this must be transferred to another organisation with similar purposes, which is charitable at law and which has rules prohibiting the distribution of its assets and income to its members.
+2.  If on the winding up or dissolution there remains any property after the satisfaction of all the co-operativeâ€™s debts and liabilities (including the refund of the amounts paid up on the shares), this must be transferred to another organisation with similar purposes, which is charitable at law and which has rules prohibiting the distribution of its assets and income to its members.
 
 3.  If on the winding up or dissolution there is a deficiency, members are liable to contribute towards the deficiency to the extent of any amount unpaid on the shares held by the member and any charges payable by the member to the co-operative as required by these rules.
 
 
 #### 71  Non-profit nature of the co-operative 
 
-1.  Notwithstanding any other provision of these rules, the assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative except as genuine compensation for services rendered or expenses incurred on behalf of the co-operative
+1.  Notwithstanding any other provision of these rules, the assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative except as genuine compensation for services rendered or expenses incurred on behalf of the co-operative.
 
 
 
