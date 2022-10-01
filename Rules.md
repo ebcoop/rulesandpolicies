@@ -1,9 +1,10 @@
 
+
 ---
 title: Rules of The Electric Boogaloo Co-operative Ltd.
 ---
 
-Version 1.20: B.V Draft 3
+Version 1.20: B.V Draft 4
 01/10/2022
 &nbsp;
 
@@ -269,6 +270,8 @@ A member may resign from a co-operative by giving two weeks’ notice in writing i
     a) written notice of intention to impose the fine and the reason for it has been given to the member; and
     
     b) the member has been given a reasonable opportunity to appear before the board in person (with or without witnesses), or to send to the board a written statement, to show cause why the fine should not be imposed.
+
+3. The board must waive a fine to a member if decided by way of ordinary resolution at a general meeting.
 
 
 #### 15 Liability of members to co-operatives (CNL ss117(2) & 121)
@@ -1027,30 +1030,15 @@ The co-operative must prepare financial reports and statements in accordance wit
 
 ## Part 9 Policies of the co-operative
 
-#### 72  Effect of policies @(Alternate A)
-
-1. The policies of the co-operative have the effect of a contract under seal—  
-
-    a)  between the co-operative and each member; and 
-
-    b)  between the co-operative and each director, the chief executive officer and  
-the secretary of the co-operative; and 
-
-    c)  between a member and each other member.  
-    
-2.  Under the contract, each of those persons agrees to observe and perform the  
-provisions of the policies as in force for the time being so far as those provisions apply to  
-the person.
-
-
-#### 72  Effect of policies @(Alternate B)
+#### 72  Effect of policies 
 
 1. The co-operative, as well as each member, director, officer and the secretary of the co-operative, must abide by the policies of the co-operative.
 
-2. The policies of the co-operative may conditionally or unconditionally limit the powers of, or restrict or dictate the decisions which may be made by, the co-operative, as well as each member, director, officer or the secretary of the co-operative.
+2. The policies of the co-operative may conditionally or unconditionally limit the powers of, or restrict or dictate the decisions or resolutions which may be made by, the co-operative, as well as each member, director, officer or the secretary of the co-operative.
 
-3. The policies may set out punitive measures if not followed, such as the imposition of fines or the suspension and expulsion of members
+3. The policies may prescribe specific situations where members shall be or suspended or expelled. 
 
+4. An ordinary resolution may overturn or repeal a suspension or expellation of a member, but only if a policy was the sole mechanism of suspension or expellation. 
 
 #### 73  Limitations of policies
 
@@ -1060,25 +1048,24 @@ the person.
 
 3. The cooperative may not approve any policy which, if that policy were a rule amendment, would not be permitted without prior approval of the Registrar under the Law.
 
->**Note.** Section 60 of the law prohibits certain Rule ammendments without prior approval from the Registrar
+>**Note.** Section 60 of the law prohibits certain Rule ammendments without prior approval from the Registrar, such as conversion of the cooperative or changes to the active membership provisions.
 
 
-#### 74  Provisions for the sanction of policies and first policy
+#### 74  Provisions for the execution of policies and first policy
 
 1. The first policy (The Policies Policy) of the co-operative must set out:
    
    a) the general form of policies;
    
-   b) how additional policies are to be sanctioned and ammended.
+   b) how additional policies may be executed and ammended.
 
-2. The first policy of the co-operative may be sanctioned by an ordinary resolution.
+2. The first policy of the co-operative may be executed by an ordinary resolution at a general meeting.
 
-3. Ammendments to the first policy cannot be made by ordinary resolution, unless allowed by a provision of the first policy.
+3. Ammendments to the first policy cannot be executed by an ordinary resolution, unless permitted by a provision of the first policy.
 
-4. Ammendments to the first policy may be made by special resolution.
+4. Ammendments to the first policy may be executed by way of special resolution.
 
 
 #### 75  Availability of policies
 
 The policies must be made available to all prospective members of the co-operative, and a copy of any policy must be provided to members if requested alongside the rules when provided under rule 58 (3).
-
