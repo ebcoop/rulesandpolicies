@@ -2,8 +2,8 @@
 title: Rules of The Electric Boogaloo Co-operative Ltd.
 ---
 
-Version 1.20: B.V Draft 5
-04/10/2022
+Version 1.20: B.V Draft 6
+05/10/2022
 &nbsp;
 
 Adopted by the co-operative at a general meeting on: 
@@ -1022,25 +1022,29 @@ operative, the rules may include additional financial statements or information.
 
 #### 71  Non-profit nature of the co-operative 
 
-1.  The assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative.
+1.  The assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members, employees, officers, or directors of the co-operative.
 
-2. This rule does not prevent the payment in good faith of market rate remuneration, or remuneration in the favour of the co-operative to any member for services rendered or expenses incurred by that member for the cooperative. 
+2. This rule does not stop the co-operative from doing the following things, provided they are done in good faith (fairly and honestly): 
+
+   a) paying a member for goods or services they have provided or expenses they have properly incurred at fair and reasonable rates or rates more favourable to the co-operative; or 
+
+   b) making a payment or providing a benefit to a member in carrying out the co-operative’s charitable purpose(s).
 
 3. If another provision of the rules is inconsistent with this rule, this rule in that instance shall prevail.
-
 
 
 ## Part 9 Policies of the co-operative
 
 #### 72  Effect of policies 
 
-1. The co-operative, as well as each member, director, officer and the secretary of the co-operative, must abide by the policies of the co-operative.
+1. The co-operative, as well as each member, director, officer and the secretary of the co-operative, must follow the policies of the co-operative.
 
-2. The policies of the co-operative may conditionally or unconditionally limit the powers of, or restrict or dictate the decisions or resolutions which may be made by, the co-operative, as well as each member, director, officer or the secretary of the co-operative.
+2. The policies of the co-operative may (conditionally or unconditionally) limit the powers of or restrict or dictate the decisions or resolutions of the co-operative, as well as each member, director, officer or the secretary of the co-operative.
 
 3. The policies may prescribe specific situations where members shall be or suspended or expelled. 
 
 4. An ordinary resolution may overturn or repeal a suspension or expellation of a member, but only if a policy was the sole mechanism of suspension or expellation. 
+
 
 #### 73  Limitations of policies
 
@@ -1073,4 +1077,3 @@ operative, the rules may include additional financial statements or information.
 #### 75  Availability of policies
 
 The policies must be made available to all prospective members of the co-operative, and a copy of any policy must be provided to members if requested alongside the rules when provided under rule 58 (3).
-
