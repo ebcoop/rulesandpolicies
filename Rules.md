@@ -1,11 +1,9 @@
-
-
 ---
 title: Rules of The Electric Boogaloo Co-operative Ltd.
 ---
 
-Version 1.20: B.V Draft 4
-01/10/2022
+Version 1.20: B.V Draft 5
+04/10/2022
 &nbsp;
 
 Adopted by the co-operative at a general meeting on: 
@@ -353,8 +351,7 @@ A member who for any reason holds less than the minimum number of shares is not 
 
 #### 24 Death of member (CNL ss93 & 102–106)
 
-The legal personal representative of a deceased member may apply to the board for a transfer of the  
-deceased member’s shares and interest (as defined in Division 8 of the law) in a form approved by the Board. 
+The legal personal representative of a deceased member may apply to the board for a transfer of the deceased member’s shares and interest (as defined in Division 8 of the law) in a form approved by the Board. 
 
 #### 25 Rights and liabilities of members under bankruptcy or mental incapacity (CNL ss95, 96 & 117)
 
@@ -492,7 +489,7 @@ An annual general meeting must be held each year, at a place and on a date and a
 
 1. An item of business cannot be transacted at a general meeting unless a quorum of members is present when the meeting is considering the item.
 
-2. A member can be taken as being present "in person" if using a form of communication that allows reasonably contemporaneous and continuous communication between the other members taking part in the meeting.
+2. A member shall be taken as being present "in person" if using a form of communication that allows reasonably contemporaneous and continuous communication between the other members taking part in the meeting.
 
 3. Unless these rules state otherwise, 5 members (or 50% of total members entitled to vote rounded up to the nearest whole member, whatever is the lesser amount) present in person, each being entitled to exercise a vote, constitute a quorum.
 
@@ -828,9 +825,9 @@ Directors’ remuneration must comply with the provisions of the Law.
 
 3. The chairperson may be removed, and a new chairperson elected, by:
 
-    a) ordinary resolution of the board, unless paragraph (b) applies; or
+    a) ordinary resolution of the board; or
 
-    b)  ordinary resolution at a general meeting, if these rules provide that the chairperson is elected at a general meeting of the co-operative.
+    b)  ordinary resolution at a general meeting.
 
 >**Note.** Subrule (3) does not affect the requirements of section 180 of the Law in respect of the removal of a director.
 
@@ -991,7 +988,7 @@ The financial year of the co-operative ends on June 30<sup>th</sup>.
 
 #### 67 Disposal of surplus funds during a financial year (CNL ss355–358)
 
-1. The co-operative may dispose of any surplus arising in a financial year arising from the business of the co-operative in the manner authorised under the Law and these Rules as determined by the board.
+1. The co-operative may dispose of any surplus arising in a financial year arising from the business of the co-operative in the manner authorised under the Law and these rules as determined by the board.
 
 2. The board may retain all or part of the surplus arising in any year from the business of the cooperative to be applied for the benefit of the cooperative.
 
@@ -1025,7 +1022,11 @@ operative, the rules may include additional financial statements or information.
 
 #### 71  Non-profit nature of the co-operative 
 
-1.  Notwithstanding any other provision of these rules, the assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative except as genuine compensation for services rendered or expenses incurred on behalf of the co-operative.
+1.  The assets and income of the co-operative shall be applied solely to further its purpose as set out in rule 3 (2) and no portion shall be distributed directly or indirectly to the members of the co-operative.
+
+2. This rule does not prevent the payment in good faith of market rate remuneration, or remuneration in the favour of the co-operative to any member for services rendered or expenses incurred by that member for the cooperative. 
+
+3. If another provision of the rules is inconsistent with this rule, this rule in that instance shall prevail.
 
 
 
@@ -1049,24 +1050,27 @@ operative, the rules may include additional financial statements or information.
 
 3. The cooperative may not approve any policy which, if that policy were a rule amendment, would not be permitted without prior approval of the Registrar under the Law.
 
->**Note.** Section 60 of the law prohibits certain Rule ammendments without prior approval from the Registrar, such as conversion of the cooperative or changes to the active membership provisions.
+>**Note.** Section 60 of the law prohibits certain rule ammendments without prior approval from the Registrar, such as conversion of the cooperative or changes to the active membership provisions.
 
 
 #### 74  Provisions for the execution of policies and first policy
 
-1. The first policy (The Policies Policy) of the co-operative must set out:
+1. The first policy (The Policies Policy) of the co-operative must include:
    
-   a) the general form of policies;
+   a) the general form of policies; and
    
-   b) how additional policies may be executed and ammended.
+   b) how additional policies may be executed and amended.
 
-2. The first policy of the co-operative may be executed by an ordinary resolution at a general meeting.
+2. Subrule 1 does not prevent the first policy from including any additional provisions as the co-operative sees fit. 
 
-3. Ammendments to the first policy cannot be executed by an ordinary resolution, unless permitted by a provision of the first policy.
+3. The first policy of the co-operative may be executed by an ordinary resolution at a general meeting.
 
-4. Ammendments to the first policy may be executed by way of special resolution.
+4. Amendments to the first policy cannot be executed by an ordinary resolution, unless permitted by a provision of the first policy.
+
+5. Amendments to the first policy may be executed by way of special resolution.
 
 
 #### 75  Availability of policies
 
 The policies must be made available to all prospective members of the co-operative, and a copy of any policy must be provided to members if requested alongside the rules when provided under rule 58 (3).
+
