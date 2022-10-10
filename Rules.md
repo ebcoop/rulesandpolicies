@@ -1,9 +1,10 @@
+
 ---
 title: Rules of The Electric Boogaloo Co-operative Ltd.
 ---
 
-Version 1.20: B.V Draft 6
-05/10/2022
+Version 1.20: B.V Draft 7
+10/10/2022
 &nbsp;
 
 Adopted by the co-operative at a general meeting on: 
@@ -27,12 +28,9 @@ These rules are the rules of The Electric Boogaloo Co-operative Ltd.
 
    **ballot paper** means a ballot paper in paper or electronic form.
 
-
-   **basic** minimum financial statements means the financial statement required of a small co-operative under the National Regulations.
-
+   **basic minimum financial statements** means the financial statement required of a small co-operative under the National Regulations.
 
    **board** means the board of the co-operative.
-
 
    **CNL** is a reference to the Co-operatives National Law as applying in this jurisdiction.
    
@@ -43,14 +41,12 @@ These rules are the rules of The Electric Boogaloo Co-operative Ltd.
    **member director and non-member director**—see section 174 of the Law and rule 45.
    
    **standard postal times** means the times when properly addressed and prepaid letters would be delivered in the ordinary course of post.
-
    
-   **the co-operative** means The Electric Boogaloo Co-operative Ltd.
+   the **co-operative** means The Electric Boogaloo Co-operative Ltd.
 
-   
-   **the Law** means the Co-operatives National Law as applying in this jurisdiction.
+   the **Law** means the Co-operatives National Law as applying in this jurisdiction.
 
-   the National **Regulations** means the Co-operatives National Regulations as applying in this jurisdiction.
+   the **National Regulations** means the Co-operatives National Regulations as applying in this jurisdiction.
 
 2. Except so far as the contrary intention appears in these rules, words and expressions used in these rules have the same meanings as they have, from time to time, in the Law or relevant provisions of the Law.
 
@@ -171,7 +167,7 @@ A member may resign from a co-operative by giving two weeks’ notice in writing
 
 3. The shares of an expelled or resigning member must be cancelled as at the day of expulsion or resignation, and the cancellation must be noted in the register of shares.
 
-4. Subject to subrule (5) and the written terms of a class of share issued, the co-operative must, however, pay to the expelled or resigning member the amount of capital paid up on the former member’s shares at the time of expulsion or resignation (less any amount owing by the former member to the co- operative).
+4. Subject to subrule (5) and the written terms of a class of share issued, the co-operative must, however, pay to the expelled or resigning member the amount of capital paid up on the former member’s shares at the time of expulsion or resignation (less any amount owing by the former member to the co-operative).
 
 5. If a deficiency exists, an appropriate proportion of the loss, deficiency or significant change may be deducted from the amount of capital paid up on the shares of the expelled or resigning member. This is done having regard to the number of shares held by the expelled or resigning member immediately before expulsion or resignation in relation to the number of shares in the co-operative.
 
@@ -198,7 +194,7 @@ A member may resign from a co-operative by giving two weeks’ notice in writing
 
     a) loses any rights (except the right to vote) arising as a result of membership; and
    
-    b) is not entitled to a refund, rebate, relief or credit for membership fees paid, or payable, to the co- operative; and
+    b) is not entitled to a refund, rebate, relief or credit for membership fees paid, or payable, to the co-operative; and
     
     c) remains liable for any fine that may be imposed.
 
@@ -678,7 +674,7 @@ Voting by proxy is not permitted at a general meeting.
 
 #### 46 Chief executive officer (CNL ss172 & 178)
 
-1. The board may, if it considers appropriate, appoint a person to be responsible for the day to day management of the co-operative. The person may be a director or the secretary or a member of the co- operative or some other person.
+1. The board may, if it considers appropriate, appoint a person to be responsible for the day to day management of the co-operative. The person may be a director or the secretary or a member of the co-operative or some other person.
 
 2. The appointed person is the chief executive officer of the co-operative, and may be called the chief executive officer or (if a director of the board) the managing director.
 
@@ -792,14 +788,14 @@ In addition to the circumstances set out in the Law, a director vacates office i
 
 Directors’ remuneration must comply with the provisions of the Law.
 
-> **Note 1.** Remuneration for directors is strictly controlled under the Law and requires the approval of the co- operative in general meeting. However, it is possible for a co-operative to specify in its rules that a director will receive particular remuneration if this is appropriate. It may still be necessary to obtain ratification or approval at a general meeting even in respect of specified remuneration under the rules.
+> **Note 1.** Remuneration for directors is strictly controlled under the Law and requires the approval of the co-operative in general meeting. However, it is possible for a co-operative to specify in its rules that a director will receive particular remuneration if this is appropriate. It may still be necessary to obtain ratification or approval at a general meeting even in respect of specified remuneration under the rules.
 
 > **Note 2.** An alternate director is treated as a director under the Law, and remuneration of an alternate director is subject to the same restrictions under the Law.
 
 
 #### 52 Proceedings of the board (CNL ss175 & 176)
 
-1. Meetings of the board (including meetings conducted outside board meetings pursuant to section 176 of the Law) are to be held as often as may be necessary for properly conducting the business of the co- operative and must be held at least every 3 months.
+1. Meetings of the board (including meetings conducted outside board meetings pursuant to section 176 of the Law) are to be held as often as may be necessary for properly conducting the business of the co-operative and must be held at least every 3 months.
 
 2. A meeting may be held with one or more of the directors participating by using a form of communication that allows reasonably contemporaneous and continuous communication between the directors taking part in the meeting.
 
@@ -846,7 +842,7 @@ Directors’ remuneration must comply with the provisions of the Law.
 
     e)   a committee of directors and other persons;
 
-    the exercise of the board’s powers (other than this power of delegation) specified in the resolution. The co- operative or the board may by resolution revoke all or part of the delegation.
+    the exercise of the board’s powers (other than this power of delegation) specified in the resolution. The co-operative or the board may by resolution revoke all or part of the delegation.
 
 2. A power delegated under this rule may, while the delegation remains unrevoked, be exercised from time to time in accordance with the delegation.
 
@@ -1041,25 +1037,25 @@ operative, the rules may include additional financial statements or information.
 
 2. The policies of the co-operative may (conditionally or unconditionally) limit the powers of or restrict or dictate the decisions or resolutions of the co-operative, as well as each member, director, officer or the secretary of the co-operative.
 
-3. The policies may prescribe specific situations where members shall be or suspended or expelled. 
+3. The policies of the co-operative may prescribe specific situations where members shall be or suspended or expelled. 
 
 4. An ordinary resolution may overturn or repeal a suspension or expellation of a member, but only if a policy was the sole mechanism of suspension or expellation. 
 
 
 #### 73  Limitations of policies
 
-1. If a provision of the policies is inconsistent with a provision of the rules, the rules in that instance shall prevail.
+1. If a provision of any policy is inconsistent with a provision of the rules, the rules in that instance shall prevail.
 
-2. If a provision of the policies is inconsistent with a provision of the Law, the Law in that instance shall prevail.
+2. If a provision of any policy is inconsistent with a provision of the Law, the Law in that instance shall prevail.
 
-3. The cooperative may not approve any policy which, if that policy were a rule amendment, would not be permitted without prior approval of the Registrar under the Law.
+3. The cooperative may not approve any policy or amendment to a policy which, if that policy were a rule amendment, would not be permitted without prior approval of the Registrar under the Law.
 
 >**Note.** Section 60 of the law prohibits certain rule ammendments without prior approval from the Registrar, such as conversion of the cooperative or changes to the active membership provisions.
 
 
 #### 74  Provisions for the execution of policies and first policy
 
-1. The first policy (The Policies Policy) of the co-operative must include:
+1. The first policy of the co-operative must include:
    
    a) the general form of policies; and
    
@@ -1071,9 +1067,13 @@ operative, the rules may include additional financial statements or information.
 
 4. Amendments to the first policy cannot be executed by an ordinary resolution, unless permitted by a provision of the first policy.
 
-5. Amendments to the first policy may be executed by way of special resolution.
+5. Amendments to any part of any policy (including the first policy) may be executed by way of special resolution.
 
 
 #### 75  Availability of policies
 
-The policies must be made available to all prospective members of the co-operative, and a copy of any policy must be provided to members if requested alongside the rules when provided under rule 58 (3).
+1. In the same circumstances which the rules are ordinarily provided the co-operative must, upon the request of any person, provide a copy of the policies.
+
+2. All prospective members of the co-operative must be provided with the policies. 
+
+3. The policies may be provided electronically, including by providing a web address. 
